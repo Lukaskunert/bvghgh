@@ -1,0 +1,36 @@
+body {
+    background-image: url("architecture_city_view_from_above_buildings_river_118446_1920x1080.jpg");
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+a {
+    font-size: 20px;
+    font-family: 
+    color rgb(57, 58, 57);
+    text-decoration: none;
+}
+
+img {
+    position: relative;
+    top: -150px;
+    left: 400px;
+    width: 40%;
+    border-radius: 15px;
+}
+
+#text {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+#box {
+    width: 55%;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(235, 235, 235, 0.5);
+}
